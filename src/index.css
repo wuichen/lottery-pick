@@ -1,0 +1,77 @@
+html body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+table {
+	width: 80%;
+}
+
+.inputBoxA {
+	padding-top: 20px;
+	width: 80%;
+	text-align: center !important;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    left: 0;
+    right: 0;
+}
+
+.inputA h3, .buttons, .inputA p{
+	text-align: center;
+	margin: 10px;
+}
+
+.inputBoxA input {
+	width: 80%!important;
+	margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+.coverPhoto {
+	margin-bottom: 20px;
+}
+
+.inputIdBox {
+	text-align: center;
+}
+
+.search {
+	width: 80%;
+	margin: 20px;
+}
+
+.inputId {
+	text-align: left;
+}
+
+.inputAImage {
+	width: 200px;
+}
+
+.adminLinkBox {
+	float: right;
+	margin-right: 15px;
+}
+
+.settingBlock {
+	text-align: center;
+}
+.settingBlock .form-control {
+	display: inline !important;
+}
+
+.settingBlock .btn {
+	margin-left: 5px;
+	vertical-align: text-bottom;
+	display: inline !important;
+}
+
+.logoutBox {
+	margin-top: 20px;
+	text-align: center;
+}
